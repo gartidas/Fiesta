@@ -1,0 +1,16 @@
+{
+  "afterYouEnterValidPasswordAccountWillBeDeleted": "After you enter valid password your account will be deleted forever",
+  "afterYouPickGoogleAccountAccountWillBeDeleted": "After you pick google account that is connected to this account, your account will be deleted forever",
+  "createPasswordForYourAccount": "Create password for your account so you can sign in with email and password",
+  "connectYourGoogleAccountSoYouCanSignIn": "Connect your Google account so you can sign in without a password",
+  "connectGoogleAccount": "Connect google account",
+  "dangerZone": "Danger zone",
+  "passwordSignIn": "Password sign in",
+  "googleAccountSignIn": "Google account sign in",
+  "googleAccountConnected": "Google account connected",
+  "passwordSignInIsSetUp": "Password sign in is set up",
+  "deleteWithpassword": "Delete account with password",
+  "deleteWithpasswordNotAccessible": "Delete with password is not accesible (Password was not added)",
+  "deleteWithGoogle": "Delete account with Google",
+  "deleteWithGoogleNotAccessible": "Delete with Google account is not accesible (Google account was not connected)"
+}
